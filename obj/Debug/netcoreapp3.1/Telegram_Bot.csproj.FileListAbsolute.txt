@@ -1,0 +1,16 @@
+C:\games\Telegram_Bot\bin\Debug\netcoreapp3.1\Telegram_Bot.exe
+C:\games\Telegram_Bot\bin\Debug\netcoreapp3.1\Telegram_Bot.deps.json
+C:\games\Telegram_Bot\bin\Debug\netcoreapp3.1\Telegram_Bot.runtimeconfig.json
+C:\games\Telegram_Bot\bin\Debug\netcoreapp3.1\Telegram_Bot.runtimeconfig.dev.json
+C:\games\Telegram_Bot\bin\Debug\netcoreapp3.1\Telegram_Bot.dll
+C:\games\Telegram_Bot\bin\Debug\netcoreapp3.1\Telegram_Bot.pdb
+C:\games\Telegram_Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\games\Telegram_Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\games\Telegram_Bot\obj\Debug\netcoreapp3.1\Telegram_Bot.csprojAssemblyReference.cache
+C:\games\Telegram_Bot\obj\Debug\netcoreapp3.1\Telegram_Bot.AssemblyInfoInputs.cache
+C:\games\Telegram_Bot\obj\Debug\netcoreapp3.1\Telegram_Bot.AssemblyInfo.cs
+C:\games\Telegram_Bot\obj\Debug\netcoreapp3.1\Telegram_Bot.csproj.CoreCompileInputs.cache
+C:\games\Telegram_Bot\obj\Debug\netcoreapp3.1\Telegram_Bot.csproj.CopyComplete
+C:\games\Telegram_Bot\obj\Debug\netcoreapp3.1\Telegram_Bot.dll
+C:\games\Telegram_Bot\obj\Debug\netcoreapp3.1\Telegram_Bot.pdb
+C:\games\Telegram_Bot\obj\Debug\netcoreapp3.1\Telegram_Bot.genruntimeconfig.cache
